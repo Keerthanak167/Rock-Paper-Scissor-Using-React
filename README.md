@@ -2,7 +2,8 @@
 
 This is a fun and interactive Rock Paper Scissors game built using React.js.
 Play against the computer, track your win streaks, celebrate your victories with confetti, and aim for the top 3 leaderboard!
-
+## Sample
+https://keerthanak167.github.io/Rock-Paper-Scissor-Using-React/
 ## 📸 Preview
 
 ![Game Screenshot](https://github.com/Keerthanak167/Rock-Paper-Scissor-Using-React/blob/main/rpc1.png)
